@@ -21,7 +21,7 @@ return (
 )
 ```
 
-There's an example with Wordpress Headless and used in Next JS / Faust library.
+There's an example with [Wordpress Headless and used in Next JS / Faust library](https://faustjs.org/).
 
 Install wordpress, change .env.local to point to your wordpress installation and just run!
 
